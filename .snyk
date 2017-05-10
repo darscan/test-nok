@@ -6,4 +6,7 @@ ignore:
     - '* > nokogiri@1.7.0.1':
         reason: None given
         expires: '2017-04-02T21:42:08.971Z'
+    - '* > nokogiri@1.7.0.1':
+        reason: None given
+        expires: '2017-06-09T14:11:55.851Z'
 patch: {}
